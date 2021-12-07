@@ -1,1 +1,2 @@
 # block
+This blocklist is fetched from https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist, I don't mean to be the owner of this blocklist, im just using this repo to convert this blocklist from hosts to ublock/adguard/abp syntaxes. I don't have a donation thingy since I don't deserve nor need the money anyway because im just converting, not adding, if you want to contribute, go to [the person who made this blocklist](https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist)
